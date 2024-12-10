@@ -1,0 +1,23 @@
+Execution time of 'conseq_fib          (10, 10)': 0.0000s
+Execution time of 'multithread_fib     (10, 10)': 0.0007s
+Execution time of 'multiprocess_fib    (10, 10)': 0.0947s
+
+Execution time of 'conseq_fib          (100, 10)': 0.0000s
+Execution time of 'multithread_fib     (100, 10)': 0.0007s
+Execution time of 'multiprocess_fib    (100, 10)': 0.0857s
+
+Execution time of 'conseq_fib          (1000, 10)': 0.0004s
+Execution time of 'multithread_fib     (1000, 10)': 0.0010s
+Execution time of 'multiprocess_fib    (1000, 10)': 0.0944s
+
+Execution time of 'conseq_fib          (10000, 10)': 0.0166s
+Execution time of 'multithread_fib     (10000, 10)': 0.0167s
+Execution time of 'multiprocess_fib    (10000, 10)': 0.0950s
+
+Execution time of 'conseq_fib          (100000, 10)': 1.2000s
+Execution time of 'multithread_fib     (100000, 10)': 1.2059s
+Execution time of 'multiprocess_fib    (100000, 10)': 0.2730s
+
+Execution time of 'conseq_fib          (1000000, 10)': 119.5865s
+Execution time of 'multithread_fib     (1000000, 10)': 118.5229s
+Execution time of 'multiprocess_fib    (1000000, 10)': 17.9418s

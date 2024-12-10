@@ -1,0 +1,302 @@
+Starting task for <built-in function cos> on interval [0, 1.5707963267948966] with n_iter=10000000
+
+Starting task for <built-in function cos> on interval [0, 1.5707963267948966] with n_iter=10000000
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=1')': 0.9722s
+
+Starting task for <built-in function cos> on interval [0, 1.5707963267948966] with n_iter=10000000
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=1')': 0.9203s
+
+Starting task for <built-in function cos> on interval [0.7853981633974483, 1.5707963267948966] with n_iter=5000000
+Starting task for <built-in function cos> on interval [0, 0.7853981633974483] with n_iter=5000000
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=2')': 0.5106s
+
+Starting task for <built-in function cos> on interval [0, 0.7853981633974483] with n_iter=5000000
+Starting task for <built-in function cos> on interval [0.7853981633974483, 1.5707963267948966] with n_iter=5000000
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=2')': 0.8962s
+
+Starting task for <built-in function cos> on interval [1.047197760636108, 1.5707963267948966] with n_iter=3333332
+Starting task for <built-in function cos> on interval [0, 0.523598880318054] with n_iter=3333334
+Starting task for <built-in function cos> on interval [0.523598880318054, 1.047197760636108] with n_iter=3333334
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=3')': 0.3635s
+
+Starting task for <built-in function cos> on interval [0, 0.523598880318054] with n_iter=3333334
+Starting task for <built-in function cos> on interval [0.523598880318054, 1.047197760636108] with n_iter=3333334
+Starting task for <built-in function cos> on interval [1.047197760636108, 1.5707963267948966] with n_iter=3333332
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=3')': 0.8893s
+
+Starting task for <built-in function cos> on interval [0.39269908169872414, 0.7853981633974483] with n_iter=2500000
+Starting task for <built-in function cos> on interval [1.1780972450961724, 1.5707963267948966] with n_iter=2500000
+Starting task for <built-in function cos> on interval [0, 0.39269908169872414] with n_iter=2500000
+Starting task for <built-in function cos> on interval [0.7853981633974483, 1.1780972450961724] with n_iter=2500000
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=4')': 0.2915s
+
+Starting task for <built-in function cos> on interval [0, 0.39269908169872414] with n_iter=2500000
+Starting task for <built-in function cos> on interval [0.39269908169872414, 0.7853981633974483] with n_iter=2500000
+Starting task for <built-in function cos> on interval [0.7853981633974483, 1.1780972450961724] with n_iter=2500000
+Starting task for <built-in function cos> on interval [1.1780972450961724, 1.5707963267948966] with n_iter=2500000
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=4')': 0.8837s
+
+Starting task for <built-in function cos> on interval [0.3141592653589793, 0.6283185307179586] with n_iter=2000000
+Starting task for <built-in function cos> on interval [1.2566370614359172, 1.5707963267948966] with n_iter=2000000
+Starting task for <built-in function cos> on interval [0.6283185307179586, 0.9424777960769379] with n_iter=2000000
+Starting task for <built-in function cos> on interval [0.9424777960769379, 1.2566370614359172] with n_iter=2000000
+Starting task for <built-in function cos> on interval [0, 0.3141592653589793] with n_iter=2000000
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=5')': 0.2441s
+
+Starting task for <built-in function cos> on interval [0, 0.3141592653589793] with n_iter=2000000
+Starting task for <built-in function cos> on interval [0.3141592653589793, 0.6283185307179586] with n_iter=2000000
+Starting task for <built-in function cos> on interval [0.6283185307179586, 0.9424777960769379] with n_iter=2000000
+Starting task for <built-in function cos> on interval [0.9424777960769379, 1.2566370614359172] with n_iter=2000000
+Starting task for <built-in function cos> on interval [1.2566370614359172, 1.5707963267948966] with n_iter=2000000
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=5')': 0.8837s
+
+Starting task for <built-in function cos> on interval [0.261799440159027, 0.523598880318054] with n_iter=1666667
+Starting task for <built-in function cos> on interval [0.523598880318054, 0.785398320477081] with n_iter=1666667
+Starting task for <built-in function cos> on interval [1.308997200795135, 1.5707963267948966] with n_iter=1666665
+Starting task for <built-in function cos> on interval [1.047197760636108, 1.308997200795135] with n_iter=1666667
+Starting task for <built-in function cos> on interval [0, 0.261799440159027] with n_iter=1666667
+Starting task for <built-in function cos> on interval [0.785398320477081, 1.047197760636108] with n_iter=1666667
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=6')': 0.2131s
+
+Starting task for <built-in function cos> on interval [0, 0.261799440159027] with n_iter=1666667
+Starting task for <built-in function cos> on interval [0.261799440159027, 0.523598880318054] with n_iter=1666667
+Starting task for <built-in function cos> on interval [0.523598880318054, 0.785398320477081] with n_iter=1666667
+Starting task for <built-in function cos> on interval [0.785398320477081, 1.047197760636108] with n_iter=1666667
+Starting task for <built-in function cos> on interval [1.047197760636108, 1.308997200795135] with n_iter=1666667
+Starting task for <built-in function cos> on interval [1.308997200795135, 1.5707963267948966] with n_iter=1666665
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=6')': 0.9047s
+
+Starting task for <built-in function cos> on interval [0, 0.2243995650162039] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.4487991300324078, 0.6731986950486117] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.2243995650162039, 0.4487991300324078] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.6731986950486117, 0.8975982600648156] with n_iter=1428572
+Starting task for <built-in function cos> on interval [1.1219978250810194, 1.3463973900972233] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.8975982600648156, 1.1219978250810194] with n_iter=1428572
+Starting task for <built-in function cos> on interval [1.3463973900972233, 1.5707963267948966] with n_iter=1428568
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=7')': 0.2263s
+
+Starting task for <built-in function cos> on interval [0, 0.2243995650162039] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.2243995650162039, 0.4487991300324078] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.4487991300324078, 0.6731986950486117] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.6731986950486117, 0.8975982600648156] with n_iter=1428572
+Starting task for <built-in function cos> on interval [0.8975982600648156, 1.1219978250810194] with n_iter=1428572
+Starting task for <built-in function cos> on interval [1.1219978250810194, 1.3463973900972233] with n_iter=1428572
+Starting task for <built-in function cos> on interval [1.3463973900972233, 1.5707963267948966] with n_iter=1428568
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=7')': 0.9063s
+
+Starting task for <built-in function cos> on interval [0.7853981633974483, 0.9817477042468103] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.39269908169872414, 0.5890486225480862] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.5890486225480862, 0.7853981633974483] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.9817477042468103, 1.1780972450961724] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0, 0.19634954084936207] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.19634954084936207, 0.39269908169872414] with n_iter=1250000
+Starting task for <built-in function cos> on interval [1.1780972450961724, 1.3744467859455345] with n_iter=1250000
+Starting task for <built-in function cos> on interval [1.3744467859455345, 1.5707963267948966] with n_iter=1250000
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=8')': 0.2375s
+
+Starting task for <built-in function cos> on interval [0, 0.19634954084936207] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.19634954084936207, 0.39269908169872414] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.39269908169872414, 0.5890486225480862] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.5890486225480862, 0.7853981633974483] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.7853981633974483, 0.9817477042468103] with n_iter=1250000
+Starting task for <built-in function cos> on interval [0.9817477042468103, 1.1780972450961724] with n_iter=1250000
+Starting task for <built-in function cos> on interval [1.1780972450961724, 1.3744467859455345] with n_iter=1250000
+Starting task for <built-in function cos> on interval [1.3744467859455345, 1.5707963267948966] with n_iter=1250000
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=8')': 0.9013s
+
+Starting task for <built-in function cos> on interval [0.1745330648257731, 0.3490661296515462] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.6981322593030924, 0.8726653241288655] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.5235991944773193, 0.6981322593030924] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0, 0.1745330648257731] with n_iter=1111112
+Starting task for <built-in function cos> on interval [1.0471983889546386, 1.2217314537804116] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.3490661296515462, 0.5235991944773193] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.8726653241288655, 1.0471983889546386] with n_iter=1111112
+Starting task for <built-in function cos> on interval [1.3962645186061846, 1.5707963267948966] with n_iter=1111104
+Starting task for <built-in function cos> on interval [1.2217314537804116, 1.3962645186061846] with n_iter=1111112
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=9')': 0.2306s
+
+Starting task for <built-in function cos> on interval [0, 0.1745330648257731] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.1745330648257731, 0.3490661296515462] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.3490661296515462, 0.5235991944773193] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.5235991944773193, 0.6981322593030924] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.6981322593030924, 0.8726653241288655] with n_iter=1111112
+Starting task for <built-in function cos> on interval [0.8726653241288655, 1.0471983889546386] with n_iter=1111112
+Starting task for <built-in function cos> on interval [1.0471983889546386, 1.2217314537804116] with n_iter=1111112
+Starting task for <built-in function cos> on interval [1.2217314537804116, 1.3962645186061846] with n_iter=1111112
+Starting task for <built-in function cos> on interval [1.3962645186061846, 1.5707963267948966] with n_iter=1111104
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=9')': 0.9128s
+
+Starting task for <built-in function cos> on interval [0, 0.15707963267948966] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.47123889803846897, 0.6283185307179586] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.15707963267948966, 0.3141592653589793] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.6283185307179586, 0.7853981633974483] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.9424777960769379, 1.0995574287564276] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.3141592653589793, 0.47123889803846897] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.7853981633974483, 0.9424777960769379] with n_iter=1000000
+Starting task for <built-in function cos> on interval [1.0995574287564276, 1.2566370614359172] with n_iter=1000000
+Starting task for <built-in function cos> on interval [1.2566370614359172, 1.413716694115407] with n_iter=1000000
+Starting task for <built-in function cos> on interval [1.413716694115407, 1.5707963267948966] with n_iter=1000000
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=10')': 0.2405s
+
+Starting task for <built-in function cos> on interval [0, 0.15707963267948966] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.15707963267948966, 0.3141592653589793] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.3141592653589793, 0.47123889803846897] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.47123889803846897, 0.6283185307179586] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.6283185307179586, 0.7853981633974483] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.7853981633974483, 0.9424777960769379] with n_iter=1000000
+Starting task for <built-in function cos> on interval [0.9424777960769379, 1.0995574287564276] with n_iter=1000000
+Starting task for <built-in function cos> on interval [1.0995574287564276, 1.2566370614359172] with n_iter=1000000
+Starting task for <built-in function cos> on interval [1.2566370614359172, 1.413716694115407] with n_iter=1000000
+Starting task for <built-in function cos> on interval [1.413716694115407, 1.5707963267948966] with n_iter=1000000
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=10')': 0.9119s
+
+Starting task for <built-in function cos> on interval [0.28559936070445985, 0.4283990410566898] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.5711987214089197, 0.7139984017611496] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.7139984017611496, 0.8567980821133795] with n_iter=909091
+Starting task for <built-in function cos> on interval [0, 0.14279968035222992] with n_iter=909091
+Starting task for <built-in function cos> on interval [1.1423974428178394, 1.2851971231700694] with n_iter=909091
+Starting task for <built-in function cos> on interval [1.2851971231700694, 1.4279968035222994] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.14279968035222992, 0.28559936070445985] with n_iter=909091
+Starting task for <built-in function cos> on interval [1.4279968035222994, 1.5707963267948966] with n_iter=909090
+Starting task for <built-in function cos> on interval [0.4283990410566898, 0.5711987214089197] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.8567980821133795, 0.9995977624656094] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.9995977624656094, 1.1423974428178394] with n_iter=909091
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=11')': 0.2486s
+
+Starting task for <built-in function cos> on interval [0, 0.14279968035222992] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.14279968035222992, 0.28559936070445985] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.28559936070445985, 0.4283990410566898] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.4283990410566898, 0.5711987214089197] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.5711987214089197, 0.7139984017611496] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.7139984017611496, 0.8567980821133795] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.8567980821133795, 0.9995977624656094] with n_iter=909091
+Starting task for <built-in function cos> on interval [0.9995977624656094, 1.1423974428178394] with n_iter=909091
+Starting task for <built-in function cos> on interval [1.1423974428178394, 1.2851971231700694] with n_iter=909091
+Starting task for <built-in function cos> on interval [1.2851971231700694, 1.4279968035222994] with n_iter=909091
+Starting task for <built-in function cos> on interval [1.4279968035222994, 1.5707963267948966] with n_iter=909090
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=11')': 0.8995s
+
+Starting task for <built-in function cos> on interval [0, 0.13089979861932985] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.6544989930966493, 0.7853987917159791] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.2617995972386597, 0.3926993958579895] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.3089979861932985, 1.4398977848126284] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.5235991944773194, 0.6544989930966493] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.7853987917159791, 0.916298590335309] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.1780981875739687, 1.3089979861932985] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.4398977848126284, 1.5707963267948966] with n_iter=833326
+Starting task for <built-in function cos> on interval [0.916298590335309, 1.0471983889546388] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.13089979861932985, 0.2617995972386597] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.3926993958579895, 0.5235991944773194] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.0471983889546388, 1.1780981875739687] with n_iter=833334
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=12')': 0.2523s
+
+Starting task for <built-in function cos> on interval [0, 0.13089979861932985] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.13089979861932985, 0.2617995972386597] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.2617995972386597, 0.3926993958579895] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.3926993958579895, 0.5235991944773194] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.5235991944773194, 0.6544989930966493] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.6544989930966493, 0.7853987917159791] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.7853987917159791, 0.916298590335309] with n_iter=833334
+Starting task for <built-in function cos> on interval [0.916298590335309, 1.0471983889546388] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.0471983889546388, 1.1780981875739687] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.1780981875739687, 1.3089979861932985] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.3089979861932985, 1.4398977848126284] with n_iter=833334
+Starting task for <built-in function cos> on interval [1.4398977848126284, 1.5707963267948966] with n_iter=833326
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=12')': 0.8970s
+
+Starting task for <built-in function cos> on interval [0.12083052292567652, 0.24166104585135303] with n_iter=769231
+Starting task for <built-in function cos> on interval [0, 0.12083052292567652] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.24166104585135303, 0.36249156877702954] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.8458136604797356, 0.9666441834054121] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.48332209170270607, 0.6041526146283825] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.6041526146283825, 0.7249831375540591] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.36249156877702954, 0.48332209170270607] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.7249831375540591, 0.8458136604797356] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.9666441834054121, 1.0874747063310886] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.3291357521824416, 1.4499662751081182] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.0874747063310886, 1.208305229256765] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.208305229256765, 1.3291357521824416] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.4499662751081182, 1.5707963267948966] with n_iter=769228
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=13')': 0.2619s
+
+Starting task for <built-in function cos> on interval [0, 0.12083052292567652] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.12083052292567652, 0.24166104585135303] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.24166104585135303, 0.36249156877702954] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.36249156877702954, 0.48332209170270607] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.48332209170270607, 0.6041526146283825] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.6041526146283825, 0.7249831375540591] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.7249831375540591, 0.8458136604797356] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.8458136604797356, 0.9666441834054121] with n_iter=769231
+Starting task for <built-in function cos> on interval [0.9666441834054121, 1.0874747063310886] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.0874747063310886, 1.208305229256765] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.208305229256765, 1.3291357521824416] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.3291357521824416, 1.4499662751081182] with n_iter=769231
+Starting task for <built-in function cos> on interval [1.4499662751081182, 1.5707963267948966] with n_iter=769228
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=13')': 0.8984s
+
+Starting task for <built-in function cos> on interval [0.11219978250810195, 0.2243995650162039] with n_iter=714286
+Starting task for <built-in function cos> on interval [0, 0.11219978250810195] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.33659934752430587, 0.4487991300324078] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.8975982600648155, 1.0097980425729174] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.0097980425729174, 1.1219978250810194] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.7853984775567135, 0.8975982600648155] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.2243995650162039, 0.33659934752430587] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.6731986950486116, 0.7853984775567135] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.1219978250810194, 1.2341976075891214] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.5609989125405097, 0.6731986950486116] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.4487991300324078, 0.5609989125405097] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.3463973900972235, 1.4585971726053255] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.4585971726053255, 1.5707963267948966] with n_iter=714282
+Starting task for <built-in function cos> on interval [1.2341976075891214, 1.3463973900972235] with n_iter=714286
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=14')': 0.2834s
+
+Starting task for <built-in function cos> on interval [0, 0.11219978250810195] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.11219978250810195, 0.2243995650162039] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.2243995650162039, 0.33659934752430587] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.33659934752430587, 0.4487991300324078] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.4487991300324078, 0.5609989125405097] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.5609989125405097, 0.6731986950486116] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.6731986950486116, 0.7853984775567135] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.7853984775567135, 0.8975982600648155] with n_iter=714286
+Starting task for <built-in function cos> on interval [0.8975982600648155, 1.0097980425729174] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.0097980425729174, 1.1219978250810194] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.1219978250810194, 1.2341976075891214] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.2341976075891214, 1.3463973900972235] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.3463973900972235, 1.4585971726053255] with n_iter=714286
+Starting task for <built-in function cos> on interval [1.4585971726053255, 1.5707963267948966] with n_iter=714282
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=14')': 0.8991s
+
+Starting task for <built-in function cos> on interval [0.5235990373976867, 0.628318844877224] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.314159422438612, 0.41887922991814935] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.20943961495907468, 0.314159422438612] with n_iter=666667
+Starting task for <built-in function cos> on interval [0, 0.10471980747953734] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.41887922991814935, 0.5235990373976867] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.2566376897544478, 1.361357497233985] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.9424782673158361, 1.0471980747953733] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.7330386523567614, 0.8377584598362987] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.628318844877224, 0.7330386523567614] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.8377584598362987, 0.9424782673158361] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.1519178822749105, 1.2566376897544478] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.0471980747953733, 1.1519178822749105] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.361357497233985, 1.4660773047135223] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.10471980747953734, 0.20943961495907468] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.4660773047135223, 1.5707963267948966] with n_iter=666662
+Execution time of 'multiprocess_integrate        (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=15')': 0.2815s
+
+Starting task for <built-in function cos> on interval [0, 0.10471980747953734] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.10471980747953734, 0.20943961495907468] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.20943961495907468, 0.314159422438612] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.314159422438612, 0.41887922991814935] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.41887922991814935, 0.5235990373976867] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.5235990373976867, 0.628318844877224] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.628318844877224, 0.7330386523567614] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.7330386523567614, 0.8377584598362987] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.8377584598362987, 0.9424782673158361] with n_iter=666667
+Starting task for <built-in function cos> on interval [0.9424782673158361, 1.0471980747953733] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.0471980747953733, 1.1519178822749105] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.1519178822749105, 1.2566376897544478] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.2566376897544478, 1.361357497233985] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.361357497233985, 1.4660773047135223] with n_iter=666667
+Starting task for <built-in function cos> on interval [1.4660773047135223, 1.5707963267948966] with n_iter=666662
+Execution time of 'multithread_integrate         (<built-in function cos>, 0, 1.5707963267948966, 'n_jobs=15')': 0.8908s
+

@@ -1,0 +1,19 @@
+$ echo "heLLo\nwOrLd\nlaLaLa\nfOoBar" | python3 hw_4/4_3_lower_rot13.py
+[Tue Dec 10 18:17:39 2024] Main process(pid=38653) started
+[Tue Dec 10 18:17:39 2024] Process B(pid=38656) started
+[Tue Dec 10 18:17:39 2024] Process A(pid=38655) started
+[Tue Dec 10 18:17:39 2024] Process A(pid=38655): got 'heLLo'
+[Tue Dec 10 18:17:39 2024] Process A(pid=38655): got 'wOrLd'
+[Tue Dec 10 18:17:39 2024] Process A(pid=38655): got 'laLaLa'
+[Tue Dec 10 18:17:39 2024] Process A(pid=38655): got 'fOoBar'
+[Tue Dec 10 18:17:39 2024] Process B(pid=38656): 'hello' -> 'uryyb'
+[Tue Dec 10 18:17:39 2024] Main process(pid=38653): got answer 'uryyb'
+[Tue Dec 10 18:17:44 2024] Process B(pid=38656): 'world' -> 'jbeyq'
+[Tue Dec 10 18:17:44 2024] Main process(pid=38653): got answer 'jbeyq'
+[Tue Dec 10 18:17:49 2024] Process B(pid=38656): 'lalala' -> 'ynynyn'
+[Tue Dec 10 18:17:49 2024] Main process(pid=38653): got answer 'ynynyn'
+[Tue Dec 10 18:17:54 2024] Process B(pid=38656): 'foobar' -> 'sbbone'
+[Tue Dec 10 18:17:54 2024] Main process(pid=38653): got answer 'sbbone'
+[Tue Dec 10 18:17:54 2024] Process B(pid=38656) exited
+[Tue Dec 10 18:17:54 2024] Process A(pid=38655) exited
+[Tue Dec 10 18:17:54 2024] Main process(pid=38653) exited
